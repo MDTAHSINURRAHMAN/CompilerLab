@@ -1,0 +1,8 @@
+===== Lexical Analysis Summary =====
+Category          Count
+------------------------------------
+Keywords:         20
+Identifiers:      26
+Numbers:          6
+Operators:        12
+====================================
